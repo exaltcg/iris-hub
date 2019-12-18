@@ -1,0 +1,1 @@
+To post a report from CURL: curl -F "file=@run.json" http://localhost:5000/report/upload

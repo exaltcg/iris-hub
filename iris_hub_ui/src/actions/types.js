@@ -1,0 +1,12 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const COLLAPSED_MENU = 'COLLAPSED_MENU';
+export const FETCH_TAGS = 'FETCH_TAGS';
+export const FETCH_TAG = 'FETCH_TAG';
+export const FETCH_MESSAGES = 'FETCH_MESSAGES';
+export const RESET_TAG = 'RESET_TAG';
+export const FETCH_REPORT_FOR_DATE = 'FETCH_REPORT_FOR_DATE';
+export const RESET_FAILED_TESTS = 'RESET_FAILED_TESTS';
+export const UPDATE_TAG = 'UPDATE_TAG';
+export const FETCH_FAILED_TESTS = 'FETCH_FAILED_TESTS';
+export const POST_TEST = 'POST_TEST';

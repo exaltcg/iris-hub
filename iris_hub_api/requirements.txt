@@ -1,0 +1,11 @@
+Flask-JWT-Extended
+Flask-RESTful
+Flask-PyMongo
+flask-cors
+APScheduler
+PyGithub
+humanize
+gitpython
+uwsgi
+python-dateutil
+gunicorn
